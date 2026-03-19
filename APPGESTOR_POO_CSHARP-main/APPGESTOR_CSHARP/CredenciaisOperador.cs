@@ -11,7 +11,7 @@ namespace APPGESTOR_CSHARP
         public string operador { get; set; }
         public string senha { get; set; }
 
-        public CredenciaisOperador() {
+        public CredenciaisOperador(string NomeOperador, string SenhaOperador) {
             operador = NomeOperador;
 
             senha = SenhaOperador;

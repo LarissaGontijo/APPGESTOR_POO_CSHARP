@@ -1,0 +1,12 @@
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\bin\Debug\APPGESTOR_CSHARP.exe.config
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\bin\Debug\APPGESTOR_CSHARP.exe
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\bin\Debug\APPGESTOR_CSHARP.pdb
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\obj\Debug\APPGESTOR_CSHARP.csproj.AssemblyReference.cache
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\obj\Debug\APPGESTOR_CSHARP.frmLogin.resources
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\obj\Debug\APPGESTOR_CSHARP.Properties.Resources.resources
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\obj\Debug\APPGESTOR_CSHARP.csproj.GenerateResource.cache
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\obj\Debug\APPGESTOR_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\obj\Debug\APPGESTOR_CSHARP.exe
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\obj\Debug\APPGESTOR_CSHARP.pdb
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\obj\Debug\APPGESTOR_CSHARP.frmCadastrarAluno.resources
+C:\Users\m\Documents\GitHub\APPGESTOR_POO_CSHARP\APPGESTOR_CSHARP\obj\Debug\APPGESTOR_CSHARP.frmCadastrarOperador.resources
